@@ -1,3 +1,3 @@
 # paper_boat_detection
 
-[GO to Google Colab](https://colab.research.google.com/drive/1bzp74VfbG9WYafBYtwJ0xE6hb86-LXxe)
+[GO to Google Colab](https://github.com/ImperatorMarsa/paper_boat_detection/blob/master/paper_boat_detection.ipynb)
